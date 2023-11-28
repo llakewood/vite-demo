@@ -37,6 +37,7 @@ Save your changes.
 Go to the [Vite guide](https://vitejs.dev/guide/) and get the latest build commands, also RTFM.
 
 - Run `npm create vite@latest` in your codespace terminal and then follow the prompts
+  - For this demo we chose React with Javascript + SWC (stands for Speedy Web Compiler, a super-fast TypeScript / JavaScript compiler written in Rust.)
 - This will take a few moments, but eventually you will see the vite-project folder in your left panel
 - Once your project is built, add the following flag to your package.json dev script: ` "dev": "vite --host"`
 - Next, `cd` into your project and run it with with `npm run dev`
